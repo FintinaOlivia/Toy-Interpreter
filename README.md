@@ -4,29 +4,37 @@ JavaFX was used for the GUI.
 
 
 # Concepts 
-> Layered Architecture
-> Encapsulation
-> Interfaces and Abstract Classes
-> Java Streams
-> Model-View-Controller pattern
+<ul> 
+  <li> Layered Architecture
+  <li> Encapsulation
+  <li> Interfaces and Abstract Classes
+  <li> Java Streams
+  <li> Model-View-Controller pattern
+</ul>
 
 # Implemented Data Types
-> Boolean
-> Integer
-> String
-> Reference
+<ul>
+  <li> Boolean
+  <li> Integer
+  <li> String
+  <li> Reference
+</ul>
 
 # Statements and Expressions
-> Logical, arithmetic and relational expressions
-> Variable declaration and assignment
-> Printing on the console
-> If/Switch statements
-> Control Flow Statement: While
-> File Handling: opening/closing of a file, reading operations
-> Heap allocation, reading and writing
-> Concurrency: Fork Statement
-
+<ul>
+  <li> Logical, arithmetic and relational expressions </li>
+  <li> Variable declaration and assignment </li>
+  <li> Printing on the console </li>
+  <li> If/Switch statements </li>
+  <li> Control Flow Statement: While </li>
+  <li> File Handling: opening/closing of a file, reading operations </li>
+  <li> Heap allocation, reading and writing </li>
+  <li> Concurrency: Fork Statement </li>
+</ul>
+  
 # Functionalities
-> Shared heap across all the program states - allocation, reading, writing, as well as the garbage collector;
-> Unique identifier for each program state, including the ones resulting from executing the Fork statement;
-> GUI, for ease of use.
+<ul>
+  <li> Shared heap across all the program states - allocation, reading, writing, as well as the garbage collector; </li>
+  <li> Unique identifier for each program state, including the ones resulting from executing the Fork statement; </li>
+  <li> GUI, for ease of use. </li>
+</ul>
