@@ -1,5 +1,5 @@
 # Toy-Interpreter
-Toy Languages Interpreter coded in Java for the Advanced Methods of Programming course during the BBU Computer Science Bachelor's Program.
+Toy Language Interpreter coded in Java for the Advanced Methods of Programming course during the BBU Computer Science Bachelor's Program.
 JavaFX was used for the GUI.
 
 
@@ -26,7 +26,7 @@ JavaFX was used for the GUI.
   <li> Variable declaration and assignment </li>
   <li> Printing on the console </li>
   <li> If/Switch statements </li>
-  <li> Control Flow Statement: While </li>
+  <li> Flow Control Statement: While </li>
   <li> File Handling: opening/closing of a file, reading operations </li>
   <li> Heap allocation, reading and writing </li>
   <li> Concurrency: Fork Statement </li>
